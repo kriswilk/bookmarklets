@@ -1,6 +1,6 @@
 # bookmarklets
 
-### edit-page-contents
+### edit-page-content
 Edit the content of the current web page. Press ESC to return to normal mode.
 
 ```
